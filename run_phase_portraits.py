@@ -1,6 +1,6 @@
 """
 Publication-quality phase-portrait figures for both regimes (nicer,
-consistently-styled replacements/companions for Fig. 2-3 of autosam.tex):
+consistently-styled replacements/companions for Fig. 2-3):
 energy landscape + drift streamlines + equilibria, overlaid with the
 stationary measure (KDE contours) obtained from an ensemble simulation.
 
