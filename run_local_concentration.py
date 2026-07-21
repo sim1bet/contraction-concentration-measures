@@ -1,6 +1,6 @@
 """
 Theorem 10 (local stationary concentration) and the boundary-mass-deficit
-Remark, Sec. 4 / Fig. 3 of autosam.tex.
+Remark, Sec. 4 / Fig. 3.
 
 Robustified relative to the original prototype scripts:
   * an ENSEMBLE of independent trajectories (interacting-particle method) is
