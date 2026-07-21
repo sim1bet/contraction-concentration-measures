@@ -1,6 +1,6 @@
 """
 Theorem 6 (contraction of measures under spatially-inhomogeneous diffusion),
-Sec. 3 / Fig. 2 of autosam.tex.
+Sec. 3 / Fig. 2.
 
 We validate:
   (a) the standing hypothesis c > L_G^2/2 for the globally contracting
