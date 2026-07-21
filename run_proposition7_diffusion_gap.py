@@ -1,5 +1,5 @@
 """
-Proposition 7 (contraction for different diffusions), Sec. 3 of autosam.tex:
+Proposition 7 (contraction for different diffusions), Sec. 3:
 bounds W_2^2(mu*, nu*) between the stationary measures of two processes that
 share the same (globally contracting) drift but differ in their diffusion
 terms G, Q, via
