@@ -1,7 +1,6 @@
 """
 Common utilities for the Automatica submission
-"Contraction and concentration of measures with applications to theoretical
-neuroscience" (autosam.tex).
+"Contraction, stationarity and concentration in stochastic dynamical systems" .
 
 This module gathers everything shared across the validation experiments:
   * the input-driven (IDP) Hopfield model of Definition 12 (Sec. 5),
