@@ -1,6 +1,5 @@
 """
-Conjecture 15 (saliency-ranked stationary concentration), Sec. 5 of
-autosam.tex: for stable retrievable memories x_mu, x_nu with saliency
+Conjecture 15 (saliency-ranked stationary concentration), Sec. 5: for stable retrievable memories x_mu, x_nu with saliency
 alpha_mu > alpha_nu > alpha*, there should exist omega_0 > 0 such that for
 every omega in (0, omega_0), mu*(B_r(x_mu)) >= mu*(B_r(x_nu)).
 
